@@ -1,0 +1,27 @@
+html,body {
+	display: block;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.contenido {
+	display: block;
+	overflow-x: hidden;
+	overflow-y: scroll;	
+	/*-webkit-column-count: 3;*/
+}
+
+.titleStyle {
+	display: block;
+	text-shadow: 3px 3px 3px #000000;
+	text-align: center;
+}
+
+.footerStyle {
+	display: block;
+	text-align: center
+}
