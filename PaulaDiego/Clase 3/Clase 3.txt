@@ -1,0 +1,8 @@
+Cambiar el ancho
+document.getElementById('container').style.width = '50px'; 
+
+Ocultar
+document.getElementById('selector').style.display = 'none'; 
+
+document.getElementById('selector').style.paddingTop = '10px';
+document.getElementById('selector').style['padding-top'] = '10px';

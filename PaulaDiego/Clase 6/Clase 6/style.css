@@ -1,0 +1,26 @@
+html,body{
+	display:block;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	overflow: hidden;
+}
+
+header,footer,content{
+	display:block;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+}
+
+content{
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+#form, #list_div {
+	display: none;
+}
