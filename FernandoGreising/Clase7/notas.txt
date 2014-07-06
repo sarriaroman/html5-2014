@@ -1,0 +1,16 @@
+my_function();
+my_function_1();
+
+---------------------------------------
+
+Defer
+
+
+
+setTiemout(my_function,0)
+
+
+
+
+
+setInterval.apply(this[my_function,1000])
